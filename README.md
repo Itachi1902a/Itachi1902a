@@ -1,16 +1,110 @@
-## Hi there 👋
 
-<!--
-**Itachi1902a/Itachi1902a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# ¡Hola! Soy German Orozco 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estudiante de Ingeniería en Sistemas | Desarrollador en formación
+
+Desarrollo proyectos académicos y personales relacionados con
+programación, desarrollo web, bases de datos y robótica.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Itachi1902a-black?style=for-the-badge&logo=github)](https://github.com/Itachi1902a)
+[![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail)](mailto:germanorozco4321@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 🎓 Estudiante de Ingeniería en Sistemas.
+- 💻 Interesado en el desarrollo de software y aplicaciones web.
+- 🗄️ Experiencia académica trabajando con bases de datos.
+- 🤖 Desarrollo proyectos de robótica y sistemas embebidos.
+- 🚀 Siempre aprendiendo nuevas tecnologías y herramientas.
+- 📚 Me gusta transformar ideas en proyectos funcionales.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Desarrollo web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend y bases de datos
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Programación y herramientas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🎮 Gamertag
+Plataforma web para consultar y administrar un catálogo de videojuegos.
+
+- Node.js y Express.
+- MySQL.
+- Sistema de autenticación y roles.
+- Administración de videojuegos y comentarios.
+
+### 🤖 Robot Mini Sumo
+Proyecto de robótica autónoma y control remoto.
+
+- Arduino Nano.
+- Driver TB6612FNG.
+- Sensores ultrasónicos y sensores de línea.
+- Comunicación Bluetooth HC-05.
+
+### 📱 Bitácora Móvil
+Proyecto académico colaborativo de desarrollo Android.
+
+- Android Studio.
+- Java.
+- Firebase.
+- Navegación entre pantallas.
+
+### 📷 Prototipo ESP32-CAM
+Desarrollo de un prototipo electrónico con cámara y notificaciones.
+
+- ESP32-CAM.
+- Firebase.
+- Android.
+- Integración de hardware y software.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itachi1902a&show_icons=true&theme=transparent&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itachi1902a&layout=compact&theme=transparent&hide_border=true&title_color=ff3333&text_color=ffffff)
+
+</div>
+
+---
+
+## 📫 Contacto
+
+- Email: germanorozco4321@gmail.com
+- GitHub: [@Itachi1902a](https://github.com/Itachi1902a)
+
+---
+
+<div align="center">
+
+### ⚡ Construyendo, aprendiendo y mejorando todos los días.
+
+</div>
+
