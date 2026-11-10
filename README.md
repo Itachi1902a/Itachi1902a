@@ -88,7 +88,12 @@ Aplicación multiplataforma desarrollada en equipo para facilitar la administrac
 - InsForge y PostgreSQL.
 - React Navigation.
 
-**Equipo:** Juan Eduardo Rojas Rivas, Juan Manuel Moreno García, Guadalupe Jazmín Becerra Morales, German Jafet Orozco Ríos y Salvador Alejandro López Duarte.
+**Equipo:** 
+- Juan Eduardo Rojas Rivas,
+- Juan Manuel Moreno García,
+- Guadalupe Jazmín Becerra Morales,
+- German Jafet Orozco Ríos,
+-  Salvador Alejandro López Duarte.
 
 🔗 [Ver repositorio del equipo](https://github.com/EduardoRivas25/Bitacora-movil)
 
