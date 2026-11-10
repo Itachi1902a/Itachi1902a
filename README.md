@@ -65,13 +65,35 @@ Proyecto de robótica autónoma y control remoto.
 - Sensores ultrasónicos y sensores de línea.
 - Comunicación Bluetooth HC-05.
 
-### 📱 Bitácora Móvil
-Proyecto académico colaborativo de desarrollo Android.
 
-- Android Studio.
-- Java.
-- Firebase.
-- Navegación entre pantallas.
+### 📱 Bitácora Digital de Administración de Redes
+
+**Proyecto académico colaborativo | 5 integrantes**
+
+Aplicación multiplataforma desarrollada en equipo para facilitar la administración y gestión de infraestructura de redes.
+
+**Mi participación:** Colaboración en el desarrollo del proyecto, trabajando junto con otros integrantes mediante Git y GitHub.
+
+**Características del sistema:**
+- Gestión de redes, subredes y dispositivos.
+- Registro y seguimiento de incidentes.
+- Administración de mantenimientos.
+- Generación de reportes PDF.
+- Mapas y localización GPS.
+- Búsqueda y validación de direcciones IP y MAC.
+
+**Tecnologías:**
+- React Native y Expo.
+- TypeScript.
+- InsForge y PostgreSQL.
+- React Navigation.
+
+**Equipo:** Juan Eduardo Rojas Rivas, Juan Manuel Moreno García, Guadalupe Jazmín Becerra Morales, German Jafet Orozco Ríos y Salvador Alejandro López Duarte.
+
+🔗 [Ver repositorio del equipo](https://github.com/EduardoRivas25/Bitacora-movil)
+
+🌐 [Ver aplicación desplegada](https://bitacora-movil.vercel.app/)
+
 
 ### 📷 Prototipo ESP32-CAM
 Desarrollo de un prototipo electrónico con cámara y notificaciones.
